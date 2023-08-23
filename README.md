@@ -1,4 +1,6 @@
-<img align="right" alt="right" width="400" src="https://img.freepik.com/free-photo/rpa-concept-with-blurry-hand-touching-screen_23-2149311914.jpg?w=900&t=st=1692774006~exp=1692774606~hmac=6577dcb3bc3276f99b2847fc736047f877cea4cbb8242daae3203c76e550c960">
+
+
+
 <h1 align="center">Hi 👋, I'm Naveen Mahantesh Ankasadaddi</h1>
 <h3 align="center">DEVPOS and CLOUD INFRA</h3>
 
