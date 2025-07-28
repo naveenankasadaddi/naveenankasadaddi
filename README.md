@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Ansible,Terraform,AWS**
 
-- 💬 Ask me about **JAVA**
+- 💬 Ask me about **Kubernetes,Terraform,Ansible,Python**
 
 - 📫 How to reach me **naveenank2001@gmail.com**
 
